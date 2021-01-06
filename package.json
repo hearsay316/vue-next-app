@@ -10,7 +10,7 @@
   "dependencies": {
     "@sentry/browser": "^5.15.4",
     "@sentry/integrations": "^5.15.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "docx": "^5.0.2",
     "file-saver": "^2.0.2",
